@@ -1,6 +1,9 @@
 # React To Do App
 
-![image](https://user-images.githubusercontent.com/14891901/141643261-176f05ba-c456-4947-8ac9-ee628bbde490.png)
+<br/>
+<p align="center">
+<img height=100% src="https://user-images.githubusercontent.com/14891901/141643261-176f05ba-c456-4947-8ac9-ee628bbde490.png"/>
+</p>
 
 ## Introduction
 
@@ -26,5 +29,8 @@ The below set of requirements are considered to be the bare-minimum for an appli
 
 - Use `localStorage` to persist user data across multiple visits.
 
-![image](https://user-images.githubusercontent.com/14891901/141643442-a1bba4a5-a2af-4946-a135-731f71c46ba1.png)
+<br/>
+<p align="center">
+<img height=100% src="https://user-images.githubusercontent.com/14891901/141643442-a1bba4a5-a2af-4946-a135-731f71c46ba1.png"/>
+</p>
 
