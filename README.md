@@ -1,5 +1,7 @@
 # React To Do App
 
+![image](https://user-images.githubusercontent.com/14891901/141643261-176f05ba-c456-4947-8ac9-ee628bbde490.png)
+
 ## Introduction
 
 A to-do list is a simple application that stores a list of user added tasks, that can be added and deleted as new tasks come in or are completed. This is a simple idea which is easy to build but will allow one to explore a variety of concepts from schedulers, push notifications, cloud storage etc.
@@ -23,3 +25,6 @@ The below set of requirements are considered to be the bare-minimum for an appli
 ## Suggestions
 
 - Use `localStorage` to persist user data across multiple visits.
+
+![image](https://user-images.githubusercontent.com/14891901/141643442-a1bba4a5-a2af-4946-a135-731f71c46ba1.png)
+
